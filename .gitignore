@@ -22,6 +22,9 @@
 # Visual Studio cache directory
 .vs/
 
+# Visual Studio Code directory
+./Dreamy_Game_Jam/.vscode
+
 # Gradle cache directory
 .gradle/
 
@@ -58,3 +61,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# UserSettings directory
+./Dreamy_Game_Jam/UserSettings/
